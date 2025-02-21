@@ -22,3 +22,10 @@ yearly_rent=monthly_rent
 yearly_elec=monthly_electricity
 
 #Yearly Costs
+salary_doubled=salary**2
+
+#For Fun
+add_savings= 50
+ 
+saving_division= add_savings/allocating_savings if allocating_savings!=0 else 0
+#Additional Svaing
