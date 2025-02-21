@@ -15,3 +15,10 @@ allocating_electricity=(electricity/100)*electricity
 total_allocating = allocating_rent +allocating_electricity + allocating_savings
 Remaining_Saving=salary-total_allocating
 #Remaining Saves
+
+monthly_rent=rent*12
+monthly_electricity=electricity*12
+yearly_rent=monthly_rent
+yearly_elec=monthly_electricity
+
+#Yearly Costs
